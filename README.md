@@ -1,41 +1,43 @@
-# Verenasbookclub Predictions — What Will Verena Pausder & Constanze Ulreich Pick Next?
+# Verenasbookclub Predictions — Was lesen Verena Pausder & Constanze Ulreich als Nächstes?
 
-**Predicting the next book pick for [verenasbookclub](https://www.instagram.com/verenasbookclub/)**, the German-language business and non-fiction bookclub curated by entrepreneur Verena Pausder and Constanze Ulreich, based in Germany.
+> **Inoffizielles Fan-Projekt. Keine Verbindung zu Verena Pausder, Constanze Ulreich oder verenasbookclub.**
 
-Think Booker Prize forecasting, but for one of Germany's most popular business bookclubs.
+AI-powered Predictions für den nächsten Buchpick des [verenasbookclub](https://www.instagram.com/verenasbookclub/), Deutschlands populärem Business- und Sachbuch-Leseclub.
 
-## What is verenasbookclub?
+---
 
-**Verenasbookclub** is a monthly German bookclub run by:
-- **Verena Pausder** — entrepreneur, chairwoman of Bundesverband Deutsche Startups, founder of Fox & Sheep, and co-host of the *FAST & CURIOUS* podcast
-- **Constanze Ulreich** — Chief of Staff at Pausder Ventures and co-curator of the club
+## Was ist der verenasbookclub?
 
-Each month they pick a German-language book (original or translation), typically a recent non-fiction release. The club is followed on Instagram at [@verenasbookclub](https://www.instagram.com/verenasbookclub/).
+**Verenasbookclub** ist ein monatlicher Leseclub, kuratiert von:
+- **Verena Pausder** — Unternehmerin, Vorsitzende des Bundesverbands Deutsche Startups, Gründerin von Fox & Sheep, Co-Hosterin des *FAST & CURIOUS* Podcasts
+- **Constanze Ulreich** — Chief of Staff bei Pausder Ventures, Co-Kuratorin des Clubs
 
-## What this project does
+Jeden Monat wählen sie ein deutschsprachiges Buch (Original oder Übersetzung), meist ein aktuelles Sachbuch. Der Club ist auf Instagram unter [@verenasbookclub](https://www.instagram.com/verenasbookclub/) zu finden.
 
-Every month, an AI agent analyzes publicly available signals to predict the next pick:
-- The bookclub's full reading history (shared publicly on social media)
-- Current German bestseller lists (Spiegel, ZEIT Sachbuch-Bestenliste)
-- Public profiles, interviews, and stated interests of both curators
-- Signals like recent media coverage, podcast guests, and publication dates
+## Wie funktioniert das hier?
 
-It then outputs the **top 3 most likely picks** with confidence scores and reasoning — before the pick is announced.
+Jeden Monat analysiert ein AI-Agent öffentlich zugängliche Signale, um den nächsten Pick vorherzusagen:
+- Die vollständige Lesehistorie des Clubs (öffentlich auf Social Media geteilt)
+- Aktuelle deutsche Bestsellerlisten (Spiegel, ZEIT Sachbuch-Bestenliste)
+- Öffentliche Profile, Interviews und Interessenschwerpunkte beider Kuratorinnen
+- Signale wie aktuelle Medienberichterstattung, Podcast-Gäste und Erscheinungsdaten
 
-## Predictions
+Das Ergebnis: die **Top 3 wahrscheinlichsten Picks** mit Konfidenzwerten und Begründung — bevor der Pick bekannt gegeben wird.
 
-| Month | Prediction file |
+## Vorhersagen
+
+| Monat | Vorhersage |
 |---|---|
 | Mai 2026 | [predictions/2026-may.md](predictions/2026-may.md) |
 
-## Sources
+## Datenquellen
 
-All data is public. Reading history posted on social media, Spiegel and ZEIT bestseller charts, and publicly available author and curator profiles. No private data is used or stored.
+Alle verwendeten Daten sind öffentlich, Lesehistorie aus Social Media, Spiegel- und ZEIT-Bestsellerlisten sowie öffentlich zugängliche Autoren- und Kuratorinnen-Profile. Es werden keine privaten Daten verwendet oder gespeichert.
 
-## Did the prediction match?
+## Hat die Vorhersage gestimmt?
 
-Find out what verenasbookclub actually picked at [@verenasbookclub on Instagram](https://www.instagram.com/verenasbookclub/).
+Den tatsächlichen Monats-Pick gibt es auf Instagram: [@verenasbookclub](https://www.instagram.com/verenasbookclub/).
 
 ## Disclaimer
 
-This is an unofficial fan project with no affiliation to Verena Pausder, Constanze Ulreich, or any of the authors mentioned. It's meant in good fun.
+Dieses Projekt ist ein inoffizielles Fan-Projekt ohne jegliche Verbindung zu Verena Pausder, Constanze Ulreich, dem verenasbookclub oder den genannten Autorinnen und Autoren. Es ist rein zum Spaß gedacht.
