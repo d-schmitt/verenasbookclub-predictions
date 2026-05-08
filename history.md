@@ -22,19 +22,18 @@
 | 18 | Generation Angst | Jonathan Haidt | Sachbuch / Psychologie | 2024 | Juli 2024 |
 | 19 | 22 Bahnen | Caroline Wahl | Roman | 2023 | August 2024 |
 | 20 |Die Geschichten in uns  | Benedict Wells | Roman | – | September 2024  |
-| 21 | Ungleich vereint | Steffen Mau | 2024 | Sachbuch / Politik | Oktober 2024  |
+| 21 | Ungleich vereint | Steffen Mau | Sachbuch / Politik |  2024| Oktober 2024  |
 | 22 | Crazy Rich | Julia Friedrichs | Sachbuch / Gesellschaft | 2024 | November 2024 |
 | 23 | Moralische Ambition  | Rutger Bregman | Sachbuch  / Philosophie | 2024 | Dezember 2024 |
-| 24 | Zukunft: Eine Bedienungsanleitung | Florence Gaub | Sachbuch | 2023 | / Januar 2025 |
-| 25 | Die Politik von Morgen | Philip Husemann & Caroline Weimann | Sachbuch / Politik | 2025 | Februar 2025 |
-| 26 | Moralspektakel | Philipp Hübl | Sachbuch / Philosophie | 2024 | März/April 2025 |
-| 27 | Zukunft: Eine Bedienungsanleitung | Florence Gaub | Sachbuch | 2023 | April 2025 |
-| 28 | Leben und Sterben | Alena Buyx | Sachbuch | 2025 | Mai 2025 |
-| 29 | Mama, bitte lern Deutsch | Tahsim Durgun | Sachbuch / Memoir | 2025 | Juni 2025 |
-| 30 | A Different Kind of Power | Jacinda Ardern | Sachbuch / Politik | 2025 | August/September 2025 |
-| 31 | Lazár | Nelio Biedermann | Roman | 2025 | Oktober 2025 |
-| 32 | Für euch würde ich kämpfen | Artur Weigandt | – | – | November 2025 |
-| 33 | Was wir wissen können | Ian McEwan | – | – | Dezember - Januar 2025 |
-| 34 | Das erwachsene Land | Holger Stark | – | – | Februar 2026 |
-| 35 | Erzählen, was ist? | Katrin Eigendorf | Sachbuch / Journalismus | 2025 | März 2026 |
-| 36 | Der neue Wohlstand | Ezra Klein & Derek Thompson | Sachbuch / Wirtschaft | 2025 | April 2026 |
+| 24 | Die Politik von Morgen | Philip Husemann & Caroline Weimann | Sachbuch / Politik | 2025 | Februar 2025 |
+| 25 | Moralspektakel | Philipp Hübl | Sachbuch / Philosophie | 2024 | März/April 2025 |
+| 26 | Zukunft: Eine Bedienungsanleitung | Florence Gaub | Sachbuch | 2023 | April 2025 |
+| 27 | Leben und Sterben | Alena Buyx | Sachbuch | 2025 | Mai 2025 |
+| 28 | Mama, bitte lern Deutsch | Tahsim Durgun | Sachbuch / Memoir | 2025 | Juni 2025 |
+| 29 | A Different Kind of Power | Jacinda Ardern | Sachbuch / Politik | 2025 | August/September 2025 |
+| 30 | Lazár | Nelio Biedermann | Roman | 2025 | Oktober 2025 |
+| 31 | Für euch würde ich kämpfen | Artur Weigandt | Memoir | – | November 2025 |
+| 32 | Was wir wissen können | Ian McEwan | Roman | – | Dezember - Januar 2025 |
+| 33 | Das erwachsene Land | Holger Stark | Sachbuch / Politik | – | Februar 2026 |
+| 34 | Erzählen, was ist? | Katrin Eigendorf | Sachbuch / Journalismus | 2025 | März 2026 |
+| 35 | Der neue Wohlstand | Ezra Klein & Derek Thompson | Sachbuch / Wirtschaft | 2025 | April 2026 |
