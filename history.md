@@ -37,3 +37,4 @@
 | 33 | Das erwachsene Land | Holger Stark | Sachbuch / Politik | – | Februar 2026 |
 | 34 | Erzählen, was ist? | Katrin Eigendorf | Sachbuch / Journalismus | 2025 | März 2026 |
 | 35 | Der neue Wohlstand | Ezra Klein & Derek Thompson | Sachbuch / Wirtschaft | 2025 | April 2026 |
+| 36 | Die Enkelin | Bernhard Schlink | Roman | 2021 | April 2026 |
