@@ -1,11 +1,11 @@
 # Bookclub Context
 
 ## Hard Rules
-- Das Buch muss auf Deutsch erschienen sein (Original oder Übersetzung)
+- Das Buch muss auf Deutsch erschienen sein (Original oder Übersetzung), in Ausnahmefällen auch english möglich (wenn einfach verständlich)
 - Bücher die bereits gelesen wurden (siehe history.md) kommen nicht mehr in Frage
 - Meistens sind es Bücher, die relativ frisch draußen sind (in der Regel die letzten 6 Monate vor dem Lesezeitpunkt)
 - "Snackable": kurze bis mittellange Bücher, die man in einem Monat lesen kann (oder in der Sommer-/Winterpause zwei Monate); typisch ≤ 320 Seiten
-- Bücher, die älter als ~18 Monate sind, werden grundsätzlich nicht empfohlen — auch wenn ein Kuratoren-Signal vorliegt. Der Club wählt fast ausnahmslos aktuelle Bücher.
+- Bücher, die älter als ~18 Monate sind, werden grundsätzlich nicht empfohlen — auch wenn ein Kuratoren-Signal vorliegt. Der Club wählt bis auf einzelne Ausnahmen aktuelle Bücher.
 
 ## Negative Signale (Abzüge / Ausschluss)
 - **Oft erwähnt, nie gewählt**: Wenn ein Buch in früheren Prognosen als Kandidat auftauchte, aber nicht zum Monats-Pick wurde, ist das ein starkes Gegen-Signal. Wiederholte Erwähnung ohne Auswahl deutet darauf hin, dass das Buch bewusst übergangen wurde — es sollte aus dem Kandidatenfeld gestrichen werden.
