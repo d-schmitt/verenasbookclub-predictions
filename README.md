@@ -28,7 +28,10 @@ Das Ergebnis: die **Top 3 wahrscheinlichsten Picks** mit Konfidenzwerten und Beg
 
 | Monat | Vorhersage |
 |---|---|
+| Juni 2026 | [predictions/2026-june.md](predictions/2026-june.md) |
 | Mai 2026 | [predictions/2026-may.md](predictions/2026-may.md) |
+
+
 
 ## Datenquellen
 
