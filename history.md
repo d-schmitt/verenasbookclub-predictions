@@ -39,3 +39,5 @@
 | 35 | Der neue Wohlstand | Ezra Klein & Derek Thompson | Sachbuch / Wirtschaft | 2025 | April 2026 |
 | 36 | Die Enkelin | Bernhard Schlink | Roman | 2021 | Mai 2026 |
 | 37 | The meaning of your life | Arthur Brooks | Sachbuch / Self Help | 2026 | Juni 2026 |
+| 38 | Wirf einen Schatten | Elena Fischer | Roman | 2026 | Juli 2026 |
+| 39 | Paradise Garden | Elena Fischer | Roman | 2026 | August 2026 |
