@@ -1,7 +1,7 @@
 ---
 name: "Bookclub Predictor"
 description: "Use when predicting the next book for Verena Pausder's bookclub. Analyzes reading history and curator profiles to recommend the top 3 most likely next picks with confidence percentages."
-tools: [read, web]
+tools: [read, write, web]
 argument-hint: "Predict the next 3 books for the bookclub"
 ---
 
@@ -58,8 +58,13 @@ Then score remaining candidates on:
 - FAST & CURIOUS podcast relevance
 - General prominence of author in German media
 
-### Step 6 — Output top 3 predictions
-Format your final answer exactly as shown in the Output Format section below.
+### Step 6 — Save the prediction
+Write the complete prediction to `predictions/YYYY-month.md`, using the current year and lowercase English month name in the filename (for example, `predictions/2026-october.md`). Create the `predictions/` directory if it does not exist.
+
+Update the predictions table in `README.md` with a link to the new file. Do not overwrite, remove, or alter prior predictions.
+
+### Step 7 — Output top 3 predictions
+Format both the saved file and your final answer exactly as shown in the Output Format section below. State the path you saved in the final answer.
 
 ## Constraints
 - DO NOT recommend books already in `history.md`

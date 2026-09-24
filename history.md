@@ -42,3 +42,4 @@
 | 38 | The meaning of your life | Arthur Brooks | Sachbuch / Self Help | 2026 | Juni 2026 |
 | 39 | Wirf einen Schatten | Elena Fischer | Roman | 2026 | Juli 2026 |
 | 40 | Paradise Garden | Elena Fischer | Roman | 2023 | August 2026 |
+| 41 | Die zweitgrößte Liebe | Ruth-Maria Thomas | Roman / Gesellschaft | 2026 | September 2026 |
